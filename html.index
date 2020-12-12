@@ -1,1 +1,41 @@
+<!--styling and setup-->
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+<meta charsets="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<title>Ollie's Blog</title>
+</head>
+
+<body>
+
+<!--website header-->
+<div class="header">
+	<h1>Ollie's Blog</h1>
+	<h4>By Oliver Simons</h4>
+</div>
+
+<!--introduction-->
+<div class="content">
+	<h1>Welcome</h1>
+	<p>I coded this website from the ground up using HTML, CSS and a few bits of JavaScript. This website doesn't use any third-party website designer, It's purely made by me. When I was in Year 8, a teacher called Mrs Gibbs taught me HTML and I've been improving my skill. This project is to show what I've achieved! (I am using W3Schools for help with a few things because I don't fully remember everything).</p>
+</div>
+
+<div class="content">
+<h1>HTML and It's History</h1>
+<p>HTML stands for Hypertext Markup Language, first developed by Tim Berners-Lee in 1993. HTML's job is to display electronic documents called pages. Since the first release, there has been many versions of HTML used over the years, the most popular version during the 2000's was HTML 4.01, the newest fully developed version is HTML 5. HTML 5 is the new living standard meaning it will be constandly updated with new features. Lets lookback at the History of HTML!</p>
+</div>
+
+<div class="content">
+<h1>HTML 1.0</h1>
+<p>HTML 1.0 was the first version of HTML, used from 1989 to 1994. The first version was very limited and only included 20 elements. Most webpages ended up looking extremely similar due to the inablity to do things like alter the page background, fonts and use tables and forms.</p>
+</div>
+
+<div class="content">
+<h1>HTML 2.0</h1>
+<p>HTML 2.0 was created in 1995, this version had significant improvements. </p>
+</div>
+
+</html>
